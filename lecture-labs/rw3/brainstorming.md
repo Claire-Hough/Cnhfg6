@@ -22,3 +22,9 @@
 	(3,3) - Should be able to assign "due dates" to issues, rewarded for finishing before/on due date
 	(2,4) - Track active contributors vs inactive ones
 	(3,3) - Labeling system for repos to search for similar projects
+	
+# Group
+	- Brad Schinker (bms67r)
+	- Andrew Cox (awchmt)
+	- Matt Hudson (mrh4hd)
+	- Kyle Malisos (kmvk6)
