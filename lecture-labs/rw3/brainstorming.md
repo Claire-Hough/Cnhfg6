@@ -1,0 +1,24 @@
+# Ideas
+	- The web UI should have a similiar look and feel to git hub
+	- Developers should be able to attach applications to the API and customize their organization structure.
+	- There should be a forum for developers to discuss issues and community interest
+	- There should be templates/example structures available to referrence for new projects
+	- Track turn around times for fixing issues
+	- Monitor how many issues appear after new releases (check quality of code)
+	- Track quantity and quality of documentation posted for project
+	- There should be a log of progress, documents problems that arise throughout the development process
+	- Can tag projects with relevant topics (AI, web dev...)
+	- Measure how many times each person commits, how they're involved, some sort of "upvoting" on commits by other developers
+	- Commits can be weighted to give developers a "score"; small bug fixes are worth less than large additions
+	- Comparison tool from different points in dev process (can see how much original code still exists)
+	- Will require a server to host a web app
+	- Have popular libraries readily available
+	- Be capable of downloading images and project metrics
+	- Timeline of people working on project, visually graphs involvement of each contributor, their commits, and the weight of their contributions
+	- Contributions will be categorized, a css file with 100 lines isn't the same as a c file wit h100 lines
+	- Each issues/requirements have a ranking system for importance/time sensitivity
+	- There should be a way to indicate who is working on what requirement
+	- Should be able to assign "due dates" to issues, rewarded for finishing before/on due date
+	- Point system for contributors distributes points to all contributors, not just last one
+	- Track active contributors vs inactive ones
+	- Labeling system for repos to search for similar projects
