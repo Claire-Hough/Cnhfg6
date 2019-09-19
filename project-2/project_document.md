@@ -38,4 +38,4 @@
 ![Picture](https://github.com/Claire-Hough/Cnhfg6/blob/master/project-2/images/Activity3.png?raw=true)
 
 # Activity Diagram: Student Can Re-Submit Uploaded Files
-![Picture](https://github.com/Claire-Hough/Cnhfg6/blob/master/project-2/images/Activity4.png?raw=true)
+![Picture](https://github.com/Claire-Hough/Cnhfg6/blob/master/project-2/images/Activity4%20(1).png?raw=true)
