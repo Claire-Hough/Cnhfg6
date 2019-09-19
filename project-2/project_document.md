@@ -20,7 +20,7 @@
 ![Picture](https://github.com/Claire-Hough/Cnhfg6/blob/master/project-2/images/UseCase.png?raw=true)
 
 # Class Diagram
-![Picture]()
+![Picture](https://github.com/Claire-Hough/Cnhfg6/blob/master/project-2/images/ClassDiagram.png?raw=true)
 
 # Sequence Diagram for Instructor
 ![Picture](https://github.com/Claire-Hough/Cnhfg6/blob/master/project-2/images/SequenceDiagram.png?raw=true)
