@@ -1,1 +1,1 @@
-I looked through tutorials 0-5. 
+I looked through tutorials 0-5. This was a little difficult for me since I don't have any experience with python and I've never really run tests before. I picked up on some of python's basic syntax and some functions of pytest. 
