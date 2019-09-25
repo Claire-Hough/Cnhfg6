@@ -8,3 +8,5 @@ https://doc.pytest.org/en/3.0.1/getting-started.html#our-first-test-run
 https://www.geeksforgeeks.org/python-ways-to-check-if-element-exists-in-list/
 
 https://www.w3schools.com/python/python_conditions.asp
+
+Use "source testing/Scripts/activate" to activate your testing environment on Windows
